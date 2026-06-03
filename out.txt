@@ -1,0 +1,506 @@
+code: 200, class: Subject - English, id: 1444
+code: 200, class: Subject - Enrichment, id: 1445
+code: 200, class: Subject - Homeroom, id: 1446
+code: 200, class: Subject - Human Society & Its Environment, id: 1447
+code: 200, class: Subject - Mathematics, id: 1448
+code: 200, class: Subject - Music, id: 1449
+code: 200, class: Subject - Personal Development, Health & Physical Education, id: 1450
+code: 200, class: Subject - Religious Education, id: 1451
+code: 200, class: Subject - Science, id: 1452
+code: 200, class: Subject - Technology Mandatory, id: 1453
+code: 200, class: Subject - Visual Arts, id: 1454
+code: 200, class: Subject - Commerce, id: 1455
+code: 200, class: Subject - External Software Engineering, id: 1456
+code: 200, class: Subject - Computing Technology, id: 1457
+code: 200, class: Subject - Design and Technology, id: 1458
+code: 200, class: Subject - English, id: 1459
+code: 200, class: Subject - Enrichment, id: 1460
+code: 200, class: Subject - Food Technology, id: 1461
+code: 200, class: Subject - History Elective, id: 1462
+code: 200, class: Subject - Homeroom, id: 1463
+code: 200, class: Subject - Human Society & Its Environment, id: 1464
+code: 200, class: Subject - Industrial Technology, id: 1465
+code: 200, class: Subject - Mathematics Alpha, id: 1466
+code: 200, class: Subject - Mathematics Beta, id: 1467
+code: 200, class: Subject - Mathematics Gamma, id: 1468
+code: 200, class: Subject - Music, id: 1469
+code: 200, class: Subject - Physical Activity & Sports Studies, id: 1470
+code: 200, class: Subject - Personal Development, Health & Physical Education, id: 1471
+code: 200, class: Subject - Photographic and Digital Media, id: 1472
+code: 200, class: Subject - Religious Education, id: 1473
+code: 200, class: Subject - Science, id: 1474
+code: 200, class: Subject - Visual Arts, id: 1475
+code: 200, class: Subject - Mathematics Standard, id: 1476
+code: 200, class: Subject - Mathematics Standard 1, id: 1477
+code: 200, class: Subject - Sport Lifestyle and Recreation 2 Unit, id: 1478
+code: 200, class: Subject - Studies of Religion 2 Unit, id: 1479
+code: 200, class: Subject - Studies of Religion 2 Unit, id: 1480
+code: 200, class: Subject - Ancient History, id: 1481
+code: 200, class: Subject - Biology, id: 1482
+code: 200, class: Subject - Business Studies, id: 1483
+code: 200, class: Subject - Computing Applications, id: 1484
+code: 200, class: Subject - Chemistry, id: 1485
+code: 200, class: Subject - English Advanced, id: 1486
+code: 200, class: Subject - Economics, id: 1487
+code: 200, class: Subject - English Standard, id: 1488
+code: 200, class: Subject - English Studies, id: 1489
+code: 200, class: Subject - Geography, id: 1490
+code: 200, class: Subject - Homeroom, id: 1491
+code: 200, class: Subject - Investigating Science, id: 1492
+code: 200, class: Subject - Italian Beginners, id: 1493
+code: 200, class: Subject - Industrial Technology Timber Products, id: 1494
+code: 200, class: Subject - Languages Distance Education Offline, id: 1495
+code: 200, class: Subject - Legal Studies, id: 1496
+code: 200, class: Subject - Mathematics Advanced, id: 1497
+code: 200, class: Subject - Mathematics Extension 2, id: 1498
+code: 200, class: Subject - Mathematics Extension 1, id: 1499
+code: 200, class: Subject - Modern History, id: 1500
+code: 200, class: Subject - Numeracy, id: 1501
+code: 200, class: Subject - Personal Development, Health & Physical Education, id: 1502
+code: 200, class: Subject - Physics, id: 1503
+code: 200, class: Subject - Studies in Catholic Thought, id: 1504
+code: 200, class: Subject - Software Engineering, id: 1505
+code: 200, class: Subject - Studies of Religion 1 unit, id: 1506
+code: 200, class: Subject - Visual Arts, id: 1507
+code: 200, class: Subject - VET Entertainment Industry, id: 1508
+code: 200, class: Subject - VET Entertainment Industry Specialisation Unit, id: 1509
+code: 200, class: Subject - VET Hospitality, id: 1510
+code: 200, class: Subject - Mathematics Standard, id: 1511
+code: 200, class: Subject - Sport Lifestyle and Recreation 2 Unit, id: 1512
+code: 200, class: Subject - Studies of Religion 2 Unit, id: 1513
+code: 200, class: Subject - Studies of Religion 2 Unit, id: 1514
+code: 200, class: Subject - Ancient History, id: 1515
+code: 200, class: Subject - Biology, id: 1516
+code: 200, class: Subject - Business Studies, id: 1517
+code: 200, class: Subject - Chemistry, id: 1518
+code: 200, class: Subject - English Advanced, id: 1519
+code: 200, class: Subject - Economics, id: 1520
+code: 200, class: Subject - English Standard, id: 1521
+code: 200, class: Subject - English Studies, id: 1522
+code: 200, class: Subject - Geography, id: 1523
+code: 200, class: Subject - Homeroom, id: 1524
+id: 1524, https code: 200, class: Subject - Homeroom, subject code: 11HRC (2025 Academic)
+id: 1525, https code: 200, class: Subject - Investigating Science, subject code: 11ISCI (2025 Academic)
+id: 1526, https code: 200, class: Subject - Industrial Technology Timber Products, subject code: 11ITTP (2025 Academic)
+id: 1527, https code: 200, class: Subject - Legal Studies, subject code: 11LEG (2025 Academic)
+id: 1528, https code: 200, class: Subject - Mathematics Advanced, subject code: 11MAD (2025 Academic)
+id: 1529, https code: 200, class: Subject - Mathematics Extension 1, subject code: 11MATX (2025 Academic)
+id: 1530, https code: 200, class: Subject - Modern History, subject code: 11MHI (2025 Academic)
+id: 1531, https code: 200, class: Subject - Numeracy, subject code: 11NUM (2025 Academic)
+id: 1532, https code: 200, class: Subject - Health & Movement Science, subject code: 11HMS (2025 Academic)
+id: 1533, https code: 200, class: Subject - Physics, subject code: 11PHY (2025 Academic)
+id: 1534, https code: 200, class: Subject - Photography Video and Digital Imaging, subject code: 11PVDI (2025 Academic)
+id: 1535, https code: 200, class: Subject - Studies in Catholic Thought, subject code: 11SCT (2025 Academic)
+id: 1536, https code: 200, class: Subject - Software Engineering, subject code: 11SEN (2025 Academic)
+id: 1537, https code: 200, class: Subject - Sport Lifestyle and Recreation 1 Unit, subject code: 11SLR (2025 Academic)
+id: 1538, https code: 200, class: Subject - Studies of Religion 1 unit, subject code: 11SOR (2025 Academic)
+id: 1539, https code: 200, class: Subject - Visual Arts, subject code: 11VART (2025 Academic)
+id: 1540, https code: 200, class: Subject - VET Entertainment Industry, subject code: 11VEI (2025 Academic)
+id: 1541, https code: 200, class: Subject - VET Hospitality, subject code: 11VHP (2025 Academic)
+id: 1542, https code: 200, class: Subject - English, subject code: 09ENG (2025 Academic)
+id: 1543, https code: 200, class: Subject - Enrichment, subject code: 09ENRICH (2025 Academic)
+id: 1544, https code: 200, class: Subject - Homeroom, subject code: 09HRC (2025 Academic)
+id: '1524', https code: '200', class: 'Subject - Homeroom', subject code: '11HRC (2025 Academic)'
+id: '1525', https code: '200', class: 'Subject - Investigating Science', subject code: '11ISCI (2025 Academic)'
+id: '1526', https code: '200', class: 'Subject - Industrial Technology Timber Products', subject code: '11ITTP (2025 Academic)'
+id: '1527', https code: '200', class: 'Subject - Legal Studies', subject code: '11LEG (2025 Academic)'
+id: '1528', https code: '200', class: 'Subject - Mathematics Advanced', subject code: '11MAD (2025 Academic)'
+id: '1529', https code: '200', class: 'Subject - Mathematics Extension 1', subject code: '11MATX (2025 Academic)'
+id: '1530', https code: '200', class: 'Subject - Modern History', subject code: '11MHI (2025 Academic)'
+id: '1531', https code: '200', class: 'Subject - Numeracy', subject code: '11NUM (2025 Academic)'
+id: '1532', https code: '200', class: 'Subject - Health & Movement Science', subject code: '11HMS (2025 Academic)'
+id: '1533', https code: '200', class: 'Subject - Physics', subject code: '11PHY (2025 Academic)'
+id: '1534', https code: '200', class: 'Subject - Photography Video and Digital Imaging', subject code: '11PVDI (2025 Academic)'
+id: '1535', https code: '200', class: 'Subject - Studies in Catholic Thought', subject code: '11SCT (2025 Academic)'
+id: '1536', https code: '200', class: 'Subject - Software Engineering', subject code: '11SEN (2025 Academic)'
+id: '1537', https code: '200', class: 'Subject - Sport Lifestyle and Recreation 1 Unit', subject code: '11SLR (2025 Academic)'
+id: '1538', https code: '200', class: 'Subject - Studies of Religion 1 unit', subject code: '11SOR (2025 Academic)'
+id: '1539', https code: '200', class: 'Subject - Visual Arts', subject code: '11VART (2025 Academic)'
+id: '1540', https code: '200', class: 'Subject - VET Entertainment Industry', subject code: '11VEI (2025 Academic)'
+id: '1541', https code: '200', class: 'Subject - VET Hospitality', subject code: '11VHP (2025 Academic)'
+id: '1542', https code: '200', class: 'Subject - English', subject code: '09ENG (2025 Academic)'
+id: '1543', https code: '200', class: 'Subject - Enrichment', subject code: '09ENRICH (2025 Academic)'
+id: '1544', https code: '200', class: 'Subject - Homeroom', subject code: '09HRC (2025 Academic)'
+id: '1545', https code: '200', class: 'Subject - Human Society & Its Environment', subject code: '09HSIE (2025 Academic)'
+id: '1546', https code: '200', class: 'Subject - Mathematics Alpha', subject code: '09MATA (2025 Academic)'
+id: '1547', https code: '200', class: 'Subject - Mathematics Beta', subject code: '09MATB (2025 Academic)'
+id: '1548', https code: '200', class: 'Subject - Personal Development, Health & Physical Education', subject code: '09PDE (2025 Academic)'
+id: '1549', https code: '200', class: 'Subject - Religious Education', subject code: '09REL (2025 Academic)'
+id: '1550', https code: '200', class: 'Subject - Science', subject code: '09SCI (2025 Academic)'
+id: '1551', https code: '200', class: 'Subject - English', subject code: '07ENG (2025 Academic)'
+id: '1552', https code: '200', class: 'Subject - Enrichment', subject code: '07ENRICH (2025 Academic)'
+id: '1553', https code: '200', class: 'Subject - Homeroom', subject code: '07HRC (2025 Academic)'
+id: '1554', https code: '200', class: 'Subject - Human Society & Its Environment', subject code: '07HSIE (2025 Academic)'
+id: '1555', https code: '200', class: 'Subject - Mathematics', subject code: '07MAT (2025 Academic)'
+id: '1556', https code: '200', class: 'Subject - Music', subject code: '07MUS (2025 Academic)'
+id: '1557', https code: '200', class: 'Subject - Personal Development, Health & Physical Education', subject code: '07PDE (2025 Academic)'
+id: '1558', https code: '200', class: 'Subject - Religious Education', subject code: '07REL (2025 Academic)'
+id: '1559', https code: '200', class: 'Subject - Science', subject code: '07SCI (2025 Academic)'
+id: '1560', https code: '200', class: 'Subject - Technology Mandatory', subject code: '07TEC (2025 Academic)'
+id: '1561', https code: '200', class: 'Subject - Visual Arts', subject code: '07VART (2025 Academic)'
+id: '1562', https code: '200', class: 'Subject - English Extension 1', subject code: '11ENGX (2025 Academic)'
+id: '1563', https code: '200', class: 'Subject - Society and Culture', subject code: '11SAC (2025 Academic)'
+id: '1564', https code: '200', class: 'Subject - Music', subject code: '11MUS (2025 Academic)'
+id: '1565', https code: '200', class: 'Subject - Design and Technology', subject code: '11DAT (2025 Academic)'
+id: '1566', https code: '200', class: 'Subject - Visual Arts', subject code: '09VART (2025 Academic)'
+id: '1567', https code: '200', class: 'Subject - Commerce', subject code: '09COM (2025 Academic)'
+id: '1568', https code: '200', class: 'Subject - Computing Technology', subject code: '09CTE (2025 Academic)'
+id: '1569', https code: '200', class: 'Subject - Physical Activity & Sports Studies', subject code: '09PASS (2025 Academic)'
+id: '1570', https code: '200', class: 'Subject - Food Technology', subject code: '09FTE (2025 Academic)'
+id: '1571', https code: '200', class: 'Subject - Photographic and Digital Media', subject code: '09PDM (2025 Academic)'
+id: '1572', https code: '200', class: 'Subject - History Elective', subject code: '09HISE (2025 Academic)'
+id: '1573', https code: '200', class: 'Subject - Industrial Technology', subject code: '09ITT (2025 Academic)'
+id: '1574', https code: '200', class: 'Subject - Geography Elective', subject code: '09GEOE (2025 Academic)'
+id: '1575', https code: '200', class: 'Subject - Design and Technology', subject code: '09DAT (2025 Academic)'
+id: '1576', https code: '200', class: 'Subject - Music', subject code: '09MUS (2025 Academic)'
+id: '1577', https code: '200', class: 'Subject - History Extension', subject code: '12HISX (2025 Academic)'
+id: '1578', https code: '200', class: 'Subject - Italian', subject code: '08ITL (2025 Academic)'
+id: '1579', https code: '200', class: 'Subject - Work Studies', subject code: '12WST (2025 Academic)'
+id: '1580', https code: '200', class: 'Subject - Study', subject code: '12STUDY (2025 Academic)'
+id: '1581', https code: '200', class: 'Subject - Study', subject code: '11STUDY (2025 Academic)'
+id: '1582', https code: '200', class: 'Subject - Staff Duty', subject code: 'STAFFDUTY_4000 (2025 Academic)'
+id: '1583', https code: '200', class: 'Subject - Staff Meeting', subject code: 'MEETING_2000 (2025 Academic)'
+id: '1584', https code: '200', class: 'Subject - Water Polo Junior', subject code: 'SPTWP (2025 Academic)'
+id: '1585', https code: '200', class: 'Subject - Basketball Intermediate', subject code: 'SPTBB (2025 Academic)'
+id: '1586', https code: '200', class: 'Subject - Basketball Senior A', subject code: 'SPTBBS (2025 Academic)'
+id: '1587', https code: '200', class: 'Subject - Touch Junior A', subject code: 'SPTTOUJ (2025 Academic)'
+id: '1588', https code: '200', class: 'Subject - Touch Intermediate A', subject code: 'SPTTOUI (2025 Academic)'
+id: '1589', https code: '200', class: 'Subject - Touch Senior B', subject code: 'SPTTOUS (2025 Academic)'
+id: '1590', https code: '200', class: 'Subject - European Handball Junior', subject code: 'SPTEHB (2025 Academic)'
+id: '1591', https code: '200', class: 'Subject - House Sport Year 7', subject code: 'SPTHOUSE7 (2025 Academic)'
+id: '1592', https code: '200', class: 'Subject - House Sport Year 8', subject code: 'SPTHOUSE8 (2025 Academic)'
+id: '1593', https code: '200', class: 'Subject - House Sport Year 9', subject code: 'SPTHOUSE9 (2025 Academic)'
+id: '1594', https code: '200', class: 'Subject - House Soccer Junior (7-9)', subject code: 'SPTHOS (2025 Academic)'
+id: '1595', https code: '200', class: 'Subject - House Touch (7 - 12)', subject code: 'SPTHOT (2025 Academic)'
+id: '1596', https code: '200', class: 'Subject - House Basketball Junior (7-9)', subject code: 'SPTHOBB (2025 Academic)'
+id: '1597', https code: '200', class: 'Subject - House Badminton Junior (7-9)', subject code: 'SPTHOBD (2025 Academic)'
+id: '1598', https code: '200', class: 'Subject - Flag Football (7-8)', subject code: 'SPTFF (2025 Academic)'
+id: '1599', https code: '200', class: 'Subject - HiLow Gym', subject code: 'SPTHL (2025 Academic)'
+id: '1600', https code: '200', class: 'Subject - House Tennis', subject code: 'SPTHOTE (2025 Academic)'
+id: '1601', https code: '200', class: 'Subject - Next Generation Gym', subject code: 'SPTNG (2025 Academic)'
+id: '1602', https code: '200', class: 'Subject - House Sport Senior', subject code: 'SPTHOUSES (2025 Academic)'
+id: '1603', https code: '200', class: 'Subject - Theatre Sports', subject code: 'SPTTHEATR (2025 Academic)'
+id: '1604', https code: '200', class: 'Subject - MCE TV Filming Sport', subject code: 'SPTMCET (2025 Academic)'
+id: '1605', https code: '200', class: 'Subject - Sports Office', subject code: 'SPORTSOFFIC (2025 Academic)'
+id: '1606', https code: '200', class: 'Subject - MusicTutors', subject code: 'MUSICTUTORS (2025 Academic)'
+id: '1607', https code: '200', class: 'Subject - Languages', subject code: '08LOTE (2025 Academic)'
+id: '1608', https code: '200', class: 'Subject - Water Polo Junior', subject code: 'SPTWPJ (2025 Academic)'
+id: '1609', https code: '200', class: 'Subject - Water Polo Intermediate', subject code: 'SPTWPI (2025 Academic)'
+id: '1610', https code: '200', class: 'Subject - Water Polo Senior', subject code: 'SPTWPS (2025 Academic)'
+id: '1611', https code: '200', class: 'Subject - Basketball Junior', subject code: 'SPTBBJ (2025 Academic)'
+id: '1612', https code: '200', class: 'Subject - European Handball Junior', subject code: 'SPTEHBJ (2025 Academic)'
+id: '1613', https code: '200', class: 'Subject - European Handball Intermediate', subject code: 'SPTEHBI (2025 Academic)'
+id: '1614', https code: '200', class: 'Subject - House Soccer Junior (7-9)', subject code: 'SPTHOSJ (2025 Academic)'
+id: '1615', https code: '200', class: 'Subject - House Touch Junior (7-9)', subject code: 'SPTHOTJ (2025 Academic)'
+id: '1616', https code: '200', class: 'Subject - House Basketball Junior (7-9)', subject code: 'SPTHOBBJ (2025 Academic)'
+id: '1617', https code: '200', class: 'Subject - House Badminton Junior (7-9)', subject code: 'SPTHOBDJ (2025 Academic)'
+id: '1618', https code: '200', class: 'Subject - House Badminton Senior (10-12)', subject code: 'SPTHOBDS (2025 Academic)'
+id: '1619', https code: '200', class: 'Subject - House Basketball Senior (10-12)', subject code: 'SPTHOBBS (2025 Academic)'
+id: '1620', https code: '200', class: 'Subject - House Soccer Junior (7-9)', subject code: 'SPTHOSS (2025 Academic)'
+id: '1621', https code: '200', class: 'Subject - House Squash (10 - 12)', subject code: 'SPTHOSQ (2025 Academic)'
+id: '1622', https code: '200', class: 'Subject - House Tennis', subject code: 'SPTHTEN (2025 Academic)'
+id: '1623', https code: '200', class: 'Subject - House Touch Senior (10-12)', subject code: 'SPTHOTS (2025 Academic)'
+id: '1624', https code: '200', class: 'Subject - External Studies', subject code: '11EXTERNAL (2025 Academic)'
+id: '1625', https code: '200', class: 'Subject - External Studies', subject code: '09EXTERNAL (2025 Academic)'
+id: '1626', https code: '200', class: 'Subject - String Ensemble', subject code: 'AMSE (2025 Academic)'
+id: '1627', https code: '200', class: 'Subject - Concert Band', subject code: 'AMCB (2025 Academic)'
+id: '1628', https code: '200', class: 'Subject - String Tuition', subject code: 'AMST (2025 Academic)'
+id: '1629', https code: '200', class: 'Subject - Brass Tuition', subject code: 'AMBT (2025 Academic)'
+id: '1630', https code: '200', class: 'Subject - Woodwind Tuition', subject code: 'AMWT (2025 Academic)'
+id: '1631', https code: '200', class: 'Subject - Percussion Tuition', subject code: 'AMPC (2025 Academic)'
+id: '1632', https code: '200', class: 'Subject - Orchestra', subject code: 'AMOR (2025 Academic)'
+id: '1633', https code: '200', class: 'Subject - Exam_2025', subject code: 'EXAM_6000 (2025 Academic)'
+id: '1634', https code: '200', class: 'Subject - Pastoral Care', subject code: 'PC (2025 Academic)'
+id: '1635', https code: '200', class: 'Subject - Literacy Intervention', subject code: '10LITERACYINTERVENTION (2025 Academic)'
+id: '1636', https code: '200', class: 'Subject - Rugby League 13's', subject code: 'SPTRL13 (2025 Academic)'
+id: '1637', https code: '200', class: 'Subject - Rugby League Opens', subject code: 'SPTRL (2025 Academic)'
+id: '1638', https code: '200', class: 'Subject - Rugby League Opens', subject code: 'SPTRL1 (2025 Academic)'
+id: '1639', https code: '200', class: 'Subject - T-Ball Intermediate', subject code: 'SPTTBALLI (2025 Academic)'
+id: '1640', https code: '200', class: 'Subject - T-Ball Junior', subject code: 'SPTTBALLJ (2025 Academic)'
+id: '1641', https code: '200', class: 'Subject - T-Ball Senior', subject code: 'SPTTBALLS (2025 Academic)'
+id: '1642', https code: '200', class: 'Subject - Mixed Netball Intermediate', subject code: 'SPTMNETI (2025 Academic)'
+id: '1643', https code: '200', class: 'Subject - Mixed Netball Junior', subject code: 'SPTMNETJ (2025 Academic)'
+id: '1644', https code: '200', class: 'Subject - House Walking Junior (7 - 9)', subject code: 'SPTHOUSEW (2025 Academic)'
+id: '1645', https code: '200', class: 'Subject - House Football Senior (10 - 12)', subject code: 'SPTHOFBS (2025 Academic)'
+id: '1646', https code: '200', class: 'Subject - House Netball', subject code: 'SPTHONET (2025 Academic)'
+id: '1647', https code: '200', class: 'Subject - House Sport Year 7 & 8', subject code: 'SPTHOUSE78 (2025 Academic)'
+id: '1648', https code: '200', class: 'Subject - House Football Junior (7 - 9)', subject code: 'SPTHOFBJ (2025 Academic)'
+id: '1649', https code: '200', class: 'Subject - House Volleyball Senior (10 - 12)', subject code: 'SPTHOVBS (2025 Academic)'
+id: '1650', https code: '200', class: 'Subject - Rugby League 15's', subject code: 'SPTRL15 (2025 Academic)'
+id: '1651', https code: '200', class: 'Subject - Tennis Pre Season', subject code: 'SPTTENPRE (2025 Academic)'
+id: '1652', https code: '200', class: 'Subject - Football Senior A', subject code: 'SPTFOOTS (2025 Academic)'
+id: '1653', https code: '200', class: 'Subject - Senior House Soccer', subject code: 'SPTHOUSE1112 (2025 Academic)'
+id: '1654', https code: '200', class: 'Subject - House Sport Year 9 & 10', subject code: 'SPTHOUSE910 (2025 Academic)'
+id: '1655', https code: '200', class: 'Subject - Football Intermediate B', subject code: 'SPTFOOTI (2025 Academic)'
+id: '1656', https code: '200', class: 'Subject - Football Junior A', subject code: 'SPTFOOTJ (2025 Academic)'
+id: '1657', https code: '200', class: 'Subject - Mathematics Life Skills', subject code: '11MATLS (2025 Academic)'
+id: '1658', https code: '200', class: 'Subject - English Life Skills', subject code: '11ESTTLS (2025 Academic)'
+id: '1659', https code: '200', class: 'Subject - Visual Arts Life Skills', subject code: '11VARTLS (2025 Academic)'
+id: '1660', https code: '200', class: 'Subject - SCS 7 A Side Football Intermediate', subject code: 'SPTFB7I (2025 Academic)'
+id: '1661', https code: '200', class: 'Subject - SCS 7 A Side Football Junior', subject code: 'SPTFB7J (2025 Academic)'
+id: '1662', https code: '200', class: 'Subject - SCS Rugby 7s Seniors', subject code: 'SPTSRUG (2025 Academic)'
+id: '1663', https code: '200', class: 'Subject - SCS AFL Junior', subject code: 'SPTJAFLJ (2025 Academic)'
+id: '1664', https code: '200', class: 'Subject - SCS Rugby 7s Intermediate', subject code: 'SPTR7I (2025 Academic)'
+id: '1665', https code: '200', class: 'Subject - SCS Rugby 7s Junior', subject code: 'SPTR7J (2025 Academic)'
+id: '1666', https code: '200', class: 'Subject - SCS AFL Senior', subject code: 'SPTAFLS (2025 Academic)'
+id: '1667', https code: '200', class: 'Subject - SCS AFL Intermediate', subject code: 'SPTIAFLI (2025 Academic)'
+id: '1668', https code: '200', class: 'Subject - House Hockey', subject code: 'SPTHHOC (2025 Academic)'
+id: '1669', https code: '200', class: 'Subject - Year 12 Sport Study A', subject code: 'SPTYEAR12STUDY (2025 Academic)'
+id: '1670', https code: '200', class: 'Subject - Intervention', subject code: '10INTERVENTION (2025 Academic)'
+id: '1671', https code: '200', class: 'Subject - Volleyball Intermediate Trials', subject code: 'SPTTRIALSINTERV (2025 Academic)'
+id: '1672', https code: '200', class: 'Subject - Volleyball Trials', subject code: 'SPTTRIALV (2025 Academic)'
+id: '1673', https code: '200', class: 'Subject - OZ Tag Trials', subject code: 'SPTTRIALOZTA (2025 Academic)'
+id: '1674', https code: '200', class: 'Subject - Cricket Trials', subject code: 'SPTTRIALCRICKE (2025 Academic)'
+id: '1675', https code: '200', class: 'Subject - OZ Tag Intermediatte Trials', subject code: 'SPTTRIALINTEROZTA (2025 Academic)'
+id: '1676', https code: '200', class: 'Subject - English Extension 2', subject code: '11ENGXX (2025 Academic)'
+id: '1677', https code: '200', class: 'Subject - Mathematics Extension 2', subject code: '11MXX (2025 Academic)'
+id: '1678', https code: '200', class: 'Subject - Mathematics Standard 1', subject code: '111MST (2025 Academic)'
+id: '1679', https code: '200', class: 'Subject - VET Entertainment Specialisation Unit', subject code: '11VEIS (2025 Academic)'
+id: '1680', https code: '200', class: 'Subject - Work Studies', subject code: '11WST (2025 Academic)'
+id: '1681', https code: '200', class: 'Subject - House Tennis (7 - 11)', subject code: 'SPTHOUSETENNIS (2025 Academic)'
+id: '1682', https code: '200', class: 'Subject - Flag Football (7 - 8)', subject code: 'SPTFLAGFOOTBALL (2025 Academic)'
+id: '1683', https code: '200', class: 'Subject - Junior House Badminton (7  - 9)', subject code: 'SPTHOUSEBADMINTONJNR (2025 Academic)'
+id: '1684', https code: '200', class: 'Subject - Senior Cricket', subject code: 'SPTCRICKETSNR (2025 Academic)'
+id: '1685', https code: '200', class: 'Subject - Junior House Basketball (7 - 9)', subject code: 'SPTHOUSEBASKETBALLJNR (2025 Academic)'
+id: '1686', https code: '200', class: 'Subject - Theatre Sports', subject code: 'SPTTHEATRESPORTS (2025 Academic)'
+id: '1687', https code: '200', class: 'Subject - Junior House Walking (7 - 9)', subject code: 'SPTHOUSEWALKJNR (2025 Academic)'
+id: '1688', https code: '200', class: 'Subject - Junior B Cricket', subject code: 'SPTCRICKETJNRB (2025 Academic)'
+id: '1689', https code: '200', class: 'Subject - Junior A Cricket', subject code: 'SPTCRICKETJNRA (2025 Academic)'
+id: '1690', https code: '200', class: 'Subject - Junior Oztag', subject code: 'SPTOZTAGJNR (2025 Academic)'
+id: '1691', https code: '200', class: 'Subject - Inter B Volleyball', subject code: 'SPTVOLLEYBALLINTB (2025 Academic)'
+id: '1692', https code: '200', class: 'Subject - Senior House Sport', subject code: 'SPTHOUSESNR (2025 Academic)'
+id: '1693', https code: '200', class: 'Subject - Inter A Volleyball', subject code: 'SPTVOLLEYBALLINTA (2025 Academic)'
+id: '1694', https code: '200', class: 'Subject - Senior house Basketball (10 - 12)', subject code: 'SPTHOUSEBASKETBALLSNR (2025 Academic)'
+id: '1695', https code: '200', class: 'Subject - Senior house Badminton (10 - 12)', subject code: 'SPTHOUSEBADMINTONSNR (2025 Academic)'
+id: '1696', https code: '200', class: 'Subject - Preseason Basketball', subject code: 'SPTBASKETBALPRE (2025 Academic)'
+id: '1697', https code: '200', class: 'Subject - House Touch (7 - 12)', subject code: 'SPTHOUSETOUCH (2025 Academic)'
+id: '1698', https code: '200', class: 'Subject - Junior House Football (7 - 9)', subject code: 'SPTHOUSEFOOTBALLJNR (2025 Academic)'
+id: '1699', https code: '200', class: 'Subject - Senior A Volleyball', subject code: 'SPTVOLLEYBALLSNRA (2025 Academic)'
+id: '1700', https code: '200', class: 'Subject - Senior A Oztag', subject code: 'SPTOZTAGSNRA (2025 Academic)'
+id: '1701', https code: '200', class: 'Subject - Senior B Volleyball', subject code: 'SPTVOLLEYBALLSNRB (2025 Academic)'
+id: '1702', https code: '200', class: 'Subject - Junior B Volleyball', subject code: 'SPTVOLLEYBALLJNRB (2025 Academic)'
+id: '1703', https code: '200', class: 'Subject - House Sport Junior', subject code: 'SPTHOUSEJ (2025 Academic)'
+id: '1704', https code: '200', class: 'Subject - Junior A Volleyball', subject code: 'SPTVOLLEYBALLJNRA (2025 Academic)'
+id: '1705', https code: '200', class: 'Subject - Inter Mixed Oztag', subject code: 'SPTOZTAGINTMIXED (2025 Academic)'
+id: '1706', https code: '200', class: 'Subject - Senior B Oztag', subject code: 'SPTOZTAGSNRB (2025 Academic)'
+id: '1707', https code: '200', class: 'Subject - Senior House Squash (10 - 12)', subject code: 'SPTHOUSESQUASHSNR (2025 Academic)'
+id: '1708', https code: '200', class: 'Subject - Junior Mixed Oztag', subject code: 'SPTOZTAGJNRMIXED (2025 Academic)'
+id: '1709', https code: '200', class: 'Subject - Inter Oztag', subject code: 'SPTOZTAGINT (2025 Academic)'
+id: '1710', https code: '200', class: 'Subject - Senior House Football', subject code: 'SPTHOUSEFOOTBALLSNR (2025 Academic)'
+id: '1711', https code: '200', class: 'Subject - House Sport Junior', subject code: 'SPTHOUSEJNR (2025 Academic)'
+id: '1712', https code: '200', class: 'Subject - History Extension', subject code: '11HISX (2025 Academic)'
+id: '1713', https code: '200', class: 'Subject - Preseason Water Polo', subject code: 'SPTWATERPOLOPRE (2025 Academic)'
+id: '1714', https code: '200', class: 'Subject - All Abilities Tee Ball', subject code: 'SPTTEEBALLALL (2025 Academic)'
+id: '1715', https code: '200', class: 'Subject - Touch Football Senior', subject code: 'SPTTOUCHSNR (2025 Academic)'
+id: '1716', https code: '200', class: 'Subject - Basketball Junior', subject code: 'SPTBASKETBALLJNR (2025 Academic)'
+id: '1717', https code: '200', class: 'Subject - Touch Football Junior and Intermediate', subject code: 'SPTTOUCHJNRINT (2025 Academic)'
+id: '1718', https code: '200', class: 'Subject - Basketball Senior', subject code: 'SPTBASKETBALLSNR (2025 Academic)'
+id: '1719', https code: '200', class: 'Subject - Basketball Intermediate', subject code: 'SPTBASKETBALLINT (2025 Academic)'
+id: '1720', https code: '200', class: 'Subject - WaterPolo', subject code: 'SPTWATERPOLO (2025 Academic)'
+id: '1721', https code: '200', class: 'Subject - European Handball', subject code: 'SPTEURHANDBALL (2025 Academic)'
+id: '1722', https code: '200', class: 'Subject - English', subject code: '08ENG (2026 Academic)'
+id: '1723', https code: '200', class: 'Subject - Enrichment', subject code: '08ENRICH (2026 Academic)'
+id: '1724', https code: '200', class: 'Subject - Homeroom', subject code: '08HRC (2026 Academic)'
+id: '1725', https code: '200', class: 'Subject - Human Society and Its Environment', subject code: '08HSIE (2026 Academic)'
+id: '1726', https code: '200', class: 'Subject - Mathematics', subject code: '08MAT (2026 Academic)'
+id: '1727', https code: '200', class: 'Subject - Music', subject code: '08MUS (2026 Academic)'
+id: '1728', https code: '200', class: 'Subject - Personal Development, Health and Physical Education', subject code: '08PDE (2026 Academic)'
+id: '1729', https code: '200', class: 'Subject - Religion Catholic Studies', subject code: '08REL (2026 Academic)'
+id: '1730', https code: '200', class: 'Subject - Science', subject code: '08SCI (2026 Academic)'
+id: '1731', https code: '200', class: 'Subject - Technology', subject code: '08TEC (2026 Academic)'
+id: '1732', https code: '200', class: 'Subject - Visual Arts', subject code: '08VAR (2026 Academic)'
+id: '1733', https code: '200', class: 'Subject - Commerce', subject code: '10COM (2026 Academic)'
+id: '1734', https code: '200', class: 'Subject - Computing Technology', subject code: '10COT (2026 Academic)'
+id: '1735', https code: '200', class: 'Subject - Design and Technology', subject code: '10DAT (2026 Academic)'
+id: '1736', https code: '200', class: 'Subject - English', subject code: '10ENG (2026 Academic)'
+id: '1737', https code: '200', class: 'Subject - Enrichment', subject code: '10ENRICH (2026 Academic)'
+id: '1738', https code: '200', class: 'Subject - External Studies', subject code: '10EXTERNAL (2026 Academic)'
+id: '1739', https code: '200', class: 'Subject - Food Technology', subject code: '10FTE (2026 Academic)'
+id: '1740', https code: '200', class: 'Subject - Geography Elective', subject code: '10GEOE (2026 Academic)'
+id: '1741', https code: '200', class: 'Subject - History Elective', subject code: '10HIE (2026 Academic)'
+id: '1742', https code: '200', class: 'Subject - Homeroom', subject code: '10HRC (2026 Academic)'
+id: '1743', https code: '200', class: 'Subject - Human Society and Its Environment', subject code: '10HSIE (2026 Academic)'
+id: '1744', https code: '200', class: 'Subject - Industrial Technology Timber', subject code: '10ITT (2026 Academic)'
+id: '1745', https code: '200', class: 'Subject - Mathematics Alpha', subject code: '10MATA (2026 Academic)'
+id: '1746', https code: '200', class: 'Subject - Mathematics Beta', subject code: '10MATB (2026 Academic)'
+id: '1747', https code: '200', class: 'Subject - Mathematics Gamma', subject code: '10MATC (2026 Academic)'
+id: '1748', https code: '200', class: 'Subject - Music', subject code: '10MUS (2026 Academic)'
+id: '1749', https code: '200', class: 'Subject - Physical Activity and Sports Studies', subject code: '10PAS (2026 Academic)'
+id: '1750', https code: '200', class: 'Subject - Personal Development, Health and Physical Education', subject code: '10PDE (2026 Academic)'
+id: '1751', https code: '200', class: 'Subject - Photographic and Digital Media', subject code: '10PDM (2026 Academic)'
+id: '1752', https code: '200', class: 'Subject - Religion Catholic Studies', subject code: '10REL (2026 Academic)'
+id: '1753', https code: '200', class: 'Subject - Science', subject code: '10SCI (2026 Academic)'
+id: '1754', https code: '200', class: 'Subject - Visual Arts', subject code: '10VAR (2026 Academic)'
+id: '1755', https code: '200', class: 'Subject - Mathematics Standard 2', subject code: '12MA2 (2026 Academic)'
+id: '1756', https code: '200', class: 'Subject - Mathematics Standard 1', subject code: '12MA1 (2026 Academic)'
+id: '1757', https code: '200', class: 'Subject - Sport Lifestyle and Recreation 2 Unit', subject code: '12SLR2 (2026 Academic)'
+id: '1758', https code: '200', class: 'Subject - Studies of Religion 2 Unit', subject code: '12SOR2 (2026 Academic)'
+id: '1759', https code: '200', class: 'Subject - Studies of Religion 2 Unit', subject code: '12SOR2A (2026 Academic)'
+id: '1760', https code: '200', class: 'Subject - Ancient History', subject code: '12AHI (2026 Academic)'
+id: '1761', https code: '200', class: 'Subject - Biology', subject code: '12BIO (2026 Academic)'
+id: '1762', https code: '200', class: 'Subject - Business Studies', subject code: '12BUS (2026 Academic)'
+id: '1763', https code: '200', class: 'Subject - Chemistry', subject code: '12CHE (2026 Academic)'
+id: '1764', https code: '200', class: 'Subject - Design and Technology', subject code: '12DAT (2026 Academic)'
+id: '1765', https code: '200', class: 'Subject - English Advanced', subject code: '12ENA (2026 Academic)'
+id: '1766', https code: '200', class: 'Subject - Economics', subject code: '12ECO (2026 Academic)'
+id: '1767', https code: '200', class: 'Subject - English Extension 1', subject code: '12ENX (2026 Academic)'
+id: '1768', https code: '200', class: 'Subject - English Standard', subject code: '12ES (2026 Academic)'
+id: '1769', https code: '200', class: 'Subject - English Studies', subject code: '12EST (2026 Academic)'
+id: '1770', https code: '200', class: 'Subject - External Studies', subject code: '12EXTERNAL (2026 Academic)'
+id: '1771', https code: '200', class: 'Subject - Geography', subject code: '12GEO (2026 Academic)'
+id: '1772', https code: '200', class: 'Subject - Health and Movement Science', subject code: '12HMS (2026 Academic)'
+id: '1773', https code: '200', class: 'Subject - Homeroom', subject code: '12HRC (2026 Academic)'
+id: '1774', https code: '200', class: 'Subject - Investigating Science', subject code: '12ISCI (2026 Academic)'
+id: '1775', https code: '200', class: 'Subject - Industrial Technology Timber Products and Furniture', subject code: '12INTT (2026 Academic)'
+id: '1776', https code: '200', class: 'Subject - Legal Studies', subject code: '12LEG (2026 Academic)'
+id: '1777', https code: '200', class: 'Subject - Mathematics Advanced', subject code: '12MAA (2026 Academic)'
+id: '1778', https code: '200', class: 'Subject - Mathematics Extension 1', subject code: '12MAX (2026 Academic)'
+id: '1779', https code: '200', class: 'Subject - Modern History', subject code: '12MHI (2026 Academic)'
+id: '1780', https code: '200', class: 'Subject - Music', subject code: '12MUS (2026 Academic)'
+id: '1781', https code: '200', class: 'Subject - Numeracy', subject code: '12NUM (2026 Academic)'
+id: '1782', https code: '200', class: 'Subject - Physics', subject code: '12PHY (2026 Academic)'
+id: '1783', https code: '200', class: 'Subject - Society and Culture', subject code: '12SAC (2026 Academic)'
+id: '1784', https code: '200', class: 'Subject - Studies in Catholic Thought', subject code: '12SCT (2026 Academic)'
+id: '1785', https code: '200', class: 'Subject - Software Engineering', subject code: '12SEN (2026 Academic)'
+id: '1786', https code: '200', class: 'Subject - Studies of Religion 1 Unit', subject code: '12SOR1 (2026 Academic)'
+id: '1787', https code: '200', class: 'Subject - Visual Arts', subject code: '12VAR (2026 Academic)'
+id: '1788', https code: '200', class: 'Subject - VET Entertainment Industry', subject code: '12VEI (2026 Academic)'
+id: '1789', https code: '200', class: 'Subject - VET Hospitality Kitchen Operations', subject code: '12VHKO (2026 Academic)'
+id: '1790', https code: '200', class: 'Subject - Mathematics Standard 2', subject code: '11MA2 (2026 Academic)'
+id: '1791', https code: '200', class: 'Subject - Sport Lifestyle and Recreation 2 Unit', subject code: '11SLR2 (2026 Academic)'
+id: '1792', https code: '200', class: 'Subject - Studies of Religion 2 Unit', subject code: '11SOR2 (2026 Academic)'
+id: '1793', https code: '200', class: 'Subject - Studies of Religion 2 Unit', subject code: '11SOR2A (2026 Academic)'
+id: '1794', https code: '200', class: 'Subject - Ancient History', subject code: '11AHI (2026 Academic)'
+id: '1795', https code: '200', class: 'Subject - Biology', subject code: '11BIO (2026 Academic)'
+id: '1796', https code: '200', class: 'Subject - Business Studies', subject code: '11BUS (2026 Academic)'
+id: '1797', https code: '200', class: 'Subject - Chemistry', subject code: '11CHE (2026 Academic)'
+id: '1798', https code: '200', class: 'Subject - Design and Technology', subject code: '11DAT (2026 Academic)'
+id: '1799', https code: '200', class: 'Subject - English Advanced', subject code: '11ENA (2026 Academic)'
+id: '1800', https code: '200', class: 'Subject - Economics', subject code: '11ECO (2026 Academic)'
+id: '1801', https code: '200', class: 'Subject - English Extension 1', subject code: '11ENX (2026 Academic)'
+id: '1802', https code: '200', class: 'Subject - English Standard', subject code: '11ES (2026 Academic)'
+id: '1803', https code: '200', class: 'Subject - English Studies', subject code: '11EST (2026 Academic)'
+id: '1804', https code: '200', class: 'Subject - Health and Movement Science', subject code: '11HMS (2026 Academic)'
+id: '1805', https code: '200', class: 'Subject - Homeroom', subject code: '11HRC (2026 Academic)'
+id: '1806', https code: '200', class: 'Subject - Investigating Science', subject code: '11ISCI (2026 Academic)'
+id: '1807', https code: '200', class: 'Subject - Industrial Technology Timber Products and Furniture', subject code: '11INTT (2026 Academic)'
+id: '1808', https code: '200', class: 'Subject - Legal Studies', subject code: '11LEG (2026 Academic)'
+id: '1809', https code: '200', class: 'Subject - Mathematics Advanced', subject code: '11MAA (2026 Academic)'
+id: '1810', https code: '200', class: 'Subject - Mathematics Extension 1', subject code: '11MAX (2026 Academic)'
+id: '1811', https code: '200', class: 'Subject - Modern History', subject code: '11MHI (2026 Academic)'
+id: '1812', https code: '200', class: 'Subject - Physics', subject code: '11PHY (2026 Academic)'
+id: '1813', https code: '200', class: 'Subject - Photography Video and Digital Imaging', subject code: '11PVD (2026 Academic)'
+id: '1814', https code: '200', class: 'Subject - Studies in Catholic Thought', subject code: '11SCT (2026 Academic)'
+id: '1815', https code: '200', class: 'Subject - Sport Lifestyle and Recreation 1 Unit', subject code: '11SLR1 (2026 Academic)'
+id: '1816', https code: '200', class: 'Subject - Studies of Religion 1  Unit', subject code: '11SOR1 (2026 Academic)'
+id: '1817', https code: '200', class: 'Subject - Visual Arts', subject code: '11VAR (2026 Academic)'
+id: '1818', https code: '200', class: 'Subject - VET Entertainment Industry', subject code: '11VEI (2026 Academic)'
+id: '1819', https code: '200', class: 'Subject - VET Hospitality Kitchen Operations', subject code: '11VHKO (2026 Academic)'
+id: '1820', https code: '200', class: 'Subject - English', subject code: '09ENG (2026 Academic)'
+id: '1821', https code: '200', class: 'Subject - Enrichment', subject code: '09ENRICH (2026 Academic)'
+id: '1822', https code: '200', class: 'Subject - Homeroom', subject code: '09HRC (2026 Academic)'
+id: '1823', https code: '200', class: 'Subject - Human Society and Its Environment', subject code: '09HSIE (2026 Academic)'
+id: '1824', https code: '200', class: 'Subject - Mathematics Alpha', subject code: '09MATA (2026 Academic)'
+id: '1825', https code: '200', class: 'Subject - Mathematics Beta', subject code: '09MATB (2026 Academic)'
+id: '1826', https code: '200', class: 'Subject - Personal Development, Health and Physical Education', subject code: '09PDE (2026 Academic)'
+id: '1827', https code: '200', class: 'Subject - Religion Catholic Studies', subject code: '09REL (2026 Academic)'
+id: '1828', https code: '200', class: 'Subject - Science', subject code: '09SCI (2026 Academic)'
+id: '1829', https code: '200', class: 'Subject - English', subject code: '07ENG (2026 Academic)'
+id: '1830', https code: '200', class: 'Subject - Enrichment', subject code: '07ENRICH (2026 Academic)'
+id: '1831', https code: '200', class: 'Subject - Homeroom', subject code: '07HRC (2026 Academic)'
+id: '1832', https code: '200', class: 'Subject - Human Society and Its Environment', subject code: '07HSIE (2026 Academic)'
+id: '1833', https code: '200', class: 'Subject - Mathematics', subject code: '07MAT (2026 Academic)'
+id: '1834', https code: '200', class: 'Subject - Music', subject code: '07MUS (2026 Academic)'
+id: '1835', https code: '200', class: 'Subject - Personal Development, Health and Physical Education', subject code: '07PDE (2026 Academic)'
+id: '1836', https code: '200', class: 'Subject - Religion Catholic Studies', subject code: '07REL (2026 Academic)'
+id: '1837', https code: '200', class: 'Subject - Science', subject code: '07SCI (2026 Academic)'
+id: '1838', https code: '200', class: 'Subject - Technology', subject code: '07TEC (2026 Academic)'
+id: '1839', https code: '200', class: 'Subject - Visual Arts', subject code: '07VAR (2026 Academic)'
+id: '1840', https code: '200', class: 'Subject - Earth and Environmental Science', subject code: '11EES (2026 Academic)'
+id: '1841', https code: '200', class: 'Subject - Music 2', subject code: '11MU2 (2026 Academic)'
+id: '1842', https code: '200', class: 'Subject - Commerce', subject code: '09COM (2026 Academic)'
+id: '1843', https code: '200', class: 'Subject - Photographic and Digital Media', subject code: '09PDM (2026 Academic)'
+id: '1844', https code: '200', class: 'Subject - Computing Technology', subject code: '09COT (2026 Academic)'
+id: '1845', https code: '200', class: 'Subject - Design and Technology', subject code: '09DAT (2026 Academic)'
+id: '1846', https code: '200', class: 'Subject - Food Technology', subject code: '09FTE (2026 Academic)'
+id: '1847', https code: '200', class: 'Subject - Physical Activity and Sports Studies', subject code: '09PAS (2026 Academic)'
+id: '1848', https code: '200', class: 'Subject - Psychology', subject code: '09PSY (2026 Academic)'
+id: '1849', https code: '200', class: 'Subject - Music', subject code: '09MUS (2026 Academic)'
+id: '1850', https code: '200', class: 'Subject - History Elective', subject code: '09HIE (2026 Academic)'
+id: '1851', https code: '200', class: 'Subject - Industrial Technology', subject code: '09ITT (2026 Academic)'
+id: '1852', https code: '200', class: 'Subject - Visual Arts', subject code: '09VAR (2026 Academic)'
+id: '1853', https code: '200', class: 'Subject - History Extension', subject code: '12HIX (2026 Academic)'
+id: '1854', https code: '200', class: 'Subject - English Extension 2', subject code: '12EXX (2026 Academic)'
+id: '1855', https code: '200', class: 'Subject - Languages', subject code: '08LOTE (2026 Academic)'
+id: '1856', https code: '200', class: 'Subject - Mathematics Extension 2', subject code: '12MXX (2026 Academic)'
+id: '1857', https code: '200', class: 'Subject - Work Studies', subject code: '12WST (2026 Academic)'
+id: '1858', https code: '200', class: 'Subject - Study', subject code: '12STUDY (2026 Academic)'
+id: '1859', https code: '200', class: 'Subject - Staff Duty', subject code: 'STAFFDUTY_4000 (2026 Academic)'
+id: '1860', https code: '200', class: 'Subject - Staff Meeting', subject code: 'MEETING_2000 (2026 Academic)'
+id: '1861', https code: '200', class: 'Subject - Water Polo Junior', subject code: 'SPTWPJ (2026 Academic)'
+id: '1862', https code: '200', class: 'Subject - Water Polo Intermediate', subject code: 'SPTWPI (2026 Academic)'
+id: '1863', https code: '200', class: 'Subject - Water Polo Senior A', subject code: 'SPTWPSA (2026 Academic)'
+id: '1864', https code: '200', class: 'Subject - Water Polo Senior B', subject code: 'SPTWPSB (2026 Academic)'
+id: '1865', https code: '200', class: 'Subject - Basketball Junior A', subject code: 'SPTBBJA (2026 Academic)'
+id: '1866', https code: '200', class: 'Subject - Basketball Junior B', subject code: 'SPTBBJB (2026 Academic)'
+id: '1867', https code: '200', class: 'Subject - Basketball Intermediate A', subject code: 'SPTBBIA (2026 Academic)'
+id: '1868', https code: '200', class: 'Subject - Basketball Senior A', subject code: 'SPTBBSA (2026 Academic)'
+id: '1869', https code: '200', class: 'Subject - Basketball Senior B', subject code: 'SPTBBSB (2026 Academic)'
+id: '1870', https code: '200', class: 'Subject - Touch Football Junior A', subject code: 'SPTTOUJA (2026 Academic)'
+id: '1871', https code: '200', class: 'Subject - Touch Football Junior B', subject code: 'SPTTOUJB (2026 Academic)'
+id: '1872', https code: '200', class: 'Subject - Touch Football Intermediate A', subject code: 'SPTTOUIA (2026 Academic)'
+id: '1873', https code: '200', class: 'Subject - Touch Football Intermediate B', subject code: 'SPTTOUIB (2026 Academic)'
+id: '1874', https code: '200', class: 'Subject - Touch Football Senior A', subject code: 'SPTTOUSA (2026 Academic)'
+id: '1875', https code: '200', class: 'Subject - European Handball Junior', subject code: 'SPTEHBJ (2026 Academic)'
+id: '1876', https code: '200', class: 'Subject - European Handball Intermediate', subject code: 'SPTEHBI (2026 Academic)'
+id: '1877', https code: '200', class: 'Subject - House Sport Year 7', subject code: 'SPTHOUSE7 (2026 Academic)'
+id: '1878', https code: '200', class: 'Subject - House Sport Year 8', subject code: 'SPTHOUSE8 (2026 Academic)'
+id: '1879', https code: '200', class: 'Subject - House Football Junior (7 - 9)', subject code: 'SPTHOSJ (2026 Academic)'
+id: '1880', https code: '200', class: 'Subject - House Basketball Junior (7-9)', subject code: 'SPTHOBBJ (2026 Academic)'
+id: '1881', https code: '200', class: 'Subject - House Touch Junior (7-9)', subject code: 'SPTHOTJ (2026 Academic)'
+id: '1882', https code: '200', class: 'Subject - House Badminton Junior (7-9)', subject code: 'SPTHOBDJ (2026 Academic)'
+id: '1883', https code: '200', class: 'Subject - Flag Football (7-8)', subject code: 'SPTFFB (2026 Academic)'
+id: '1884', https code: '200', class: 'Subject - House Badminton Senior (10-11)', subject code: 'SPTHOBDS (2026 Academic)'
+id: '1885', https code: '200', class: 'Subject - House Basketball Senior (10-11)', subject code: 'SPTHOBBS (2026 Academic)'
+id: '1886', https code: '200', class: 'Subject - HiLow Gym', subject code: 'SPTHLG (2026 Academic)'
+id: '1887', https code: '200', class: 'Subject - House Soccer Senior (10-11)', subject code: 'SPTHOSS (2026 Academic)'
+id: '1888', https code: '200', class: 'Subject - House Squash', subject code: 'SPTHOSQ (2026 Academic)'
+id: '1889', https code: '200', class: 'Subject - House Tennis', subject code: 'SPTHOTEN (2026 Academic)'
+id: '1890', https code: '200', class: 'Subject - House Touch Senior (10-11)', subject code: 'SPTHOTS (2026 Academic)'
+id: '1891', https code: '200', class: 'Subject - House Sport Senior', subject code: 'SPTHOUSES (2026 Academic)'
+id: '1892', https code: '200', class: 'Subject - Theatre Sports', subject code: 'SPTTHEATRE (2026 Academic)'
+id: '1893', https code: '200', class: 'Subject - MCE TV Filming Sport', subject code: 'SPTMCETV (2026 Academic)'
+id: '1894', https code: '200', class: 'Subject - Sports Office', subject code: 'SPTSPORTSOFFIC (2026 Academic)'
+id: '1895', https code: '200', class: 'Subject - House Sport Year 9', subject code: 'SPTHOUSE9 (2026 Academic)'
+id: '1896', https code: '200', class: 'Subject - Basketball Intermediate B', subject code: 'SPTBBIB (2026 Academic)'
+id: '1897', https code: '200', class: 'Subject - Next Generation Gym', subject code: 'SPTNGG (2026 Academic)'
+id: '1898', https code: '200', class: 'Subject - House Sport Junior (7-9)', subject code: 'SPTHOUSEJ (2026 Academic)'
+id: '1899', https code: '200', class: 'Subject - External 1', subject code: '09EXTERNAL (2026 Academic)'
+id: '1900', https code: '200', class: 'Subject - MusicTutors', subject code: 'MUSICTUTORS (2026 Academic)'
+id: '1901', https code: '200', class: 'Subject - EXTERNA', subject code: '11EXTERNAL (2026 Academic)'
+id: '1902', https code: '200', class: 'Subject - Study', subject code: '11STUDY (2026 Academic)'
+id: '1903', https code: '200', class: 'Subject - Homeroom', subject code: 'HR (2026 Academic)'
+id: '1904', https code: '200', class: 'Subject - Sport Lifestyle and Recreation  Lifeskills', subject code: 'SPORT LIFESTYLE AND RECREATION  LIFESKILLS (2026 Academic)'
+id: '1905', https code: '200', class: 'Subject - Pastoral Care', subject code: 'PC (2026 Academic)'
+id: '1906', https code: '200', class: 'Subject - String Tuition', subject code: 'AMST (2026 Academic)'
+id: '1907', https code: '200', class: 'Subject - Brass Tuition', subject code: 'AMBT (2026 Academic)'
+id: '1908', https code: '200', class: 'Subject - Woodwind Tuition', subject code: 'AMWT (2026 Academic)'
+id: '1909', https code: '200', class: 'Subject - String Ensemble', subject code: 'AMSE (2026 Academic)'
+id: '1910', https code: '200', class: 'Subject - Concert Band', subject code: 'AMCB (2026 Academic)'
+id: '1911', https code: '200', class: 'Subject - WHUB Supervision', subject code: 'HUBSUPERCHA (2026 Academic)'
+id: '1912', https code: '200', class: 'Subject - WHUB Supervision', subject code: 'HUBSUPERCOD (2026 Academic)'
+id: '1913', https code: '200', class: 'Subject - WHUB Supervision', subject code: 'HUBSUPERCHR (2026 Academic)'
+id: '1914', https code: '200', class: 'Subject - Football Intermediate B', subject code: 'SPTFBI (2026 Academic)'
+id: '1915', https code: '200', class: 'Subject - Football Junior A', subject code: 'SPTFBJ (2026 Academic)'
+id: '1916', https code: '200', class: 'Subject - Football Senior A', subject code: 'SPTFBS (2026 Academic)'
+id: '1917', https code: '200', class: 'Subject - Junior House Tennis', subject code: 'SPTHOTENJN (2026 Academic)'
+id: '1918', https code: '200', class: 'Subject - House Volleyball', subject code: 'SPTHV (2026 Academic)'
+id: '1919', https code: '200', class: 'Subject - Inters Netball', subject code: 'SPTMNETINTE (2026 Academic)'
+id: '1920', https code: '200', class: 'Subject - Junior Netball', subject code: 'SPTMNETJN (2026 Academic)'
+id: '1921', https code: '200', class: 'Subject - Next Generation Gym', subject code: 'SPTN (2026 Academic)'
+id: '1922', https code: '200', class: 'Subject - Rugby League 16's', subject code: 'SPTRL1 (2026 Academic)'
+id: '1923', https code: '200', class: 'Subject - Rugby League Opens', subject code: 'SPTRLO (2026 Academic)'
+id: '1924', https code: '200', class: 'Subject - OzTag Junior', subject code: 'SPTT (2026 Academic)'
+id: '1925', https code: '200', class: 'Subject - House Walking', subject code: 'SPTHOUS (2026 Academic)'
+id: '1926', https code: '200', class: 'Subject - Percussion Tuition', subject code: 'AMPC (2026 Academic)'
+id: '1927', https code: '200', class: 'Subject - Orchestra', subject code: 'AMOR (2026 Academic)'
